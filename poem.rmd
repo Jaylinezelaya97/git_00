@@ -53,3 +53,44 @@ The sun was shining on the sea,
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+In numbers' dance, a tale unfolds,
+
+A saga told in graphs and molds,
+
+Statistical whispers, patterns keen,
+
+A language deciphered, seldom seen.
+
+
+
+Mean and median, the central guide,
+
+Through spreadsheets vast, they gracefully glide,
+
+Deviation hints at outliers afar,
+
+In the realm of data, they bear a scar.
+
+
+
+Histograms rise, bar by bar,
+
+Revealing stories, both near and far,
+
+Standard deviation measures the spread,
+
+In a universe of numbers, where dreams are bred.
+
+
+
+Regression lines plot a path so clear,
+
+Predicting futures, allay our fear,
+
+A realm of inference, where insights gleam,
+
+In the realm of numbers, we dare to dream.
+
+
+
